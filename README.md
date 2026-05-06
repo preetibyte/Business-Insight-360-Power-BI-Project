@@ -43,12 +43,12 @@ Power Query – Data cleaning and shaping
 - Order fulfillment
 - Delivery performance
 
-#### Finance View
+### Finance View
 
 <img width="2420" height="1357" alt="finance dashboard_page-0001" src="https://github.com/user-attachments/assets/4a0cacf0-e7ba-41a8-ab94-b07cac1a71e0" />
 
 
-#### Sales View  
+### Sales View  
 
 <img width="2420" height="1357" alt="Sales Dashboard_page-0001" src="https://github.com/user-attachments/assets/6961ad80-d28c-47d8-a506-2b3674ac58f9" />
 
